@@ -37,3 +37,8 @@ The AFK status is automatically removed when you send a message in any channel. 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 13.01.05.png" alt=""><figcaption><p>AFK deactivation summary</p></figcaption></figure>  
 
 Now you can step away without missing important messages! 🚀
+
+{% hint style="info" %}
+Click here to suggest an idea for this command: [discord.gg/legacy-bots](https://discord.gg/Ns26dEmC2Y)
+{% endhint %}
+
