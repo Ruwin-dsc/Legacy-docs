@@ -5,5 +5,5 @@
 
 ## 💻 Commands
 
-* [🛠️ Utils](commands/utils/README.md)
+* [🛠️ Utils](commands/utils.md)
   * [AFK](commands/utils/afk.md)
