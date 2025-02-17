@@ -1,3 +1,7 @@
+---
+icon: wand-magic-sparkles
+---
+
 # Legacy
 
 ***
