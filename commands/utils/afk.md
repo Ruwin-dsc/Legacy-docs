@@ -1,26 +1,39 @@
 ---
-description: Allows you to be AFK.
----
 
-# AFK
+# AFK  
 
-La commande AFK sert à montrer aux personnes (tout serveurs confondus) que vous n'êtes pas disponible. Cette commande comporte plusieurs fonctionnalités très utile.
+**Description:** Allows you to set your status as AFK, letting others know you’re unavailable across all servers.  
 
+## 💤 How It Works  
 
+The AFK command helps notify others that you're away. It includes several useful features to enhance your experience.  
 
-Pour vous rendre AFK il suffit de rentrer la commande `afk [reason]` , la raison est optionnel, il vous mettra par défaut 'Aucune Raison'. &#x20;
+### 🔹 Setting Your AFK Status  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.51.13.png" alt=""><figcaption></figcaption></figure>
+To go AFK, simply use the command:  
 
-Si vous êtes déjà en AFK, cela mettra un message d'erreur.
+```bash
+/afk [reason]
+```  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.55.59.png" alt=""><figcaption></figcaption></figure>
+- The reason is optional. If left blank, it will default to **"No reason"**.  
 
-Lorsque les utilisateurs vous répondront ou mentionneront votre compte en étant AFK, ils vont recevoir un message comme quoi vous êtes AFK
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.51.13.png" alt=""><figcaption><p>Setting AFK status</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.58.31.png" alt=""><figcaption></figcaption></figure>
+If you are already AFK and try to set it again, you will receive an error message.  
 
-Lorque vous enverrez un message dans un salon en étant AFK, celui-ci va se désactiver et va vous donner un récapitulatif du temps et des mentions que vous avez reçu.
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.55.59.png" alt=""><figcaption><p>AFK error message</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 13.01.05.png" alt=""><figcaption></figcaption></figure>
+### 🔹 What Happens When Someone Mentions You?  
 
+Whenever someone mentions or replies to you while you're AFK, they will receive an automatic message informing them that you are currently away.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 12.58.31.png" alt=""><figcaption><p>AFK mention response</p></figcaption></figure>  
+
+### 🔹 Disabling AFK Mode  
+
+The AFK status is automatically removed when you send a message in any channel. Upon returning, you’ll receive a summary of how long you were AFK and how many mentions you received.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 13.01.05.png" alt=""><figcaption><p>AFK deactivation summary</p></figcaption></figure>  
+
+Now you can step away without missing important messages! 🚀
