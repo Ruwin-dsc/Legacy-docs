@@ -2,3 +2,7 @@
 
 * [Legacy](README.md)
 * [⚙️ Bot instalation](botinstalation.md)
+
+## 💻 Commands
+
+* [🛠️ Utils](commands/utils.md)
