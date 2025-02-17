@@ -1,19 +1,27 @@
 ---
-description: Allows you to create a server backup.
----
+**Description:** Allows you to create a backup of your Discord server, which can later be imported into a new server using the `backup load` command.  
 
-# Backup Create
+## 🔹 What Gets Saved?  
 
-Cette commande permet d'avoir une copie de son serveur Discord, pour l'importer sur un nouveau (voir commande backup load). Vous pouvez en avoir que 10. Voici ce qui est enregistré sur votre serveur Discord: \
-\- Les rôles\
-\- Les salons\
-\- Les paramètres \
-\- Les émojis\
-\- Les informations des membres\
-\- Les utilisateurs bannis \
-\
-Une fois créé vous allez recevoir un identifiant à garder précieusement. Il vous permettra de mettre cette backup sur un autre serveur
+Each backup stores the following server elements:  
 
+- Roles  
+- Channels  
+- Server settings  
+- Emojis  
+- Member information  
+- Banned users  
 
+⚠️ **You can store up to 10 backups at a time.**  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 13.15.16.png" alt=""><figcaption></figcaption></figure>
+## 🔹 How It Works  
+
+Once you create a backup, you will receive a unique **backup ID**. Keep this ID safe, as it will be required to restore your server on another instance.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-17 à 13.15.16.png" alt=""><figcaption><p>Backup creation process</p></figcaption></figure>  
+
+Now you can secure your server’s structure and settings with ease! 🚀
+
+{% hint style="info" %}
+Click here to suggest an idea for this command: [discord.gg/legacy-bots](https://discord.gg/Ns26dEmC2Y)
+{% endhint %}
