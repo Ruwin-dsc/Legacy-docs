@@ -1,5 +1,3 @@
-Voici une version en anglais, légèrement améliorée pour plus de clarté :  
-
 ---
 
 # ⚙️ Bot Installation  
