@@ -8,4 +8,5 @@
 * [🛠️ Utils](commands/utils.md)
   * [AFK](commands/utils/afk.md)
   * [Backup Create](commands/utils/backup-create.md)
-* [⚙️ Gestion](commands/gestion.md)
+* [⚙️ Gestion](commands/gestion/README.md)
+  * [Ticket settings](commands/gestion/ticket-settings.md)
