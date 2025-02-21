@@ -1,97 +1,117 @@
-# Ticket settings
+# 🎫 Ticket Settings  
 
-Description: Cela vous permet de instaurer un système de ticket où les membres du serveurs pourront demander de l'aide à travers celle-ci.\
-\
-Lorsque vous ferez la commande ticket-settings vous accéderez à ce panel, ne vous inquiétez pas il est  simple de configuration
+**Description:** This feature allows you to set up a ticketing system where server members can request assistance.  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 21.56.35.png" alt=""><figcaption></figcaption></figure>
+When you use the `ticket-settings` command, you will access the configuration panel. Don't worry—it's easy to set up!  
 
-Vous aurez à votre disposition 3 select menus ainsi que 6 boutons, voici à quoi ils correspondent:\
-\
--> Le premier select menu (image ci dessous) sert à n'autoriser que les membres ayant le rôle renseignée pour créé des tickets&#x20;
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 21.56.35.png" alt=""><figcaption><p>Ticket settings panel</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 21.59.06.png" alt=""><figcaption></figcaption></figure>
+## ⚙️ Configuration Options  
 
--> Le deuxième selectMenu (image ci dessous) sert à ne pas autoriser les membres ayant ce rôle pour créé des tickets
+### 🔹 Role Restrictions  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.01.16.png" alt=""><figcaption></figcaption></figure>
+- **First Select Menu**: Allows only members with the selected role to create tickets.  
 
-{% hint style="warning" %}
-Note: Si vous ne trouvez pas votre rôle il suffit de l'écrire sur le select Menu
-{% endhint %}
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 21.59.06.png" alt=""><figcaption><p>Allowed roles</p></figcaption></figure>  
 
--> Passons maintenant au boutons (on reviendra sur le 3ème selectMenu juste après\
-Le premier bouton (image ci-dessous) sert à indiquer le type du selectMenu cela peut être sous la forme de bouton ou de selectMenu
+- **Second Select Menu**: Prevents members with the selected role from creating tickets.  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.04.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.01.16.png" alt=""><figcaption><p>Restricted roles</p></figcaption></figure>  
 
--> Le 2ème bouton (ci-dessous) sert à indiqué la présence ou non du bouton claim lors de la création du ticket. Il permet en effet à votre équipe de support de pouvoir récupérer le ticket afin qu'il soit visible que par lui, les administrateurs ainsi que l'utilisateur qui a fait le ticket
+{% hint style="warning" %}  
+💡 **Tip:** If you can't find your role, simply type its name in the Select Menu.  
+{% endhint %}  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.06.53.png" alt=""><figcaption></figcaption></figure>
+### 🔹 Button Settings  
 
--> Le 3ème bouton (ci-dessous) sert à activer ou désactiver les transcripts ticket, il s'agit d'un résumé du ticket en question avec tous les messages qui sont sauvegardés
+- **Button 1**: Defines whether the ticket system will use **buttons** or a **select menu**.  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.09.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.04.11.png" alt=""><figcaption><p>Choose button or select menu</p></figcaption></figure>  
 
-{% hint style="warning" %}
-Note: Si le bouton est rouge cela signifie que l'option est désactivé, s'il est vert cela signifie qu'il est activé.
-{% endhint %}
+- **Button 2**: Toggles the **Claim** button. When enabled, support team members can claim tickets, making them visible only to the ticket creator, the support member, and administrators.  
 
--> Nous reviendrons sur le 4ème bouton plus tard, s'il est désactivé cela est normal.\
-Le 5ème bouton (voir ci-dessous) permet d'ajouter des options sur le ticket ils correspondent aux boutons ou au menus selon le type de votre ticket (bouton/select)
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.06.53.png" alt=""><figcaption><p>Claim button setting</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.21.39.png" alt=""><figcaption></figcaption></figure>
+- **Button 3**: Enables or disables **ticket transcripts**, which save a full log of the conversation.  
 
-Lorsque vous appuyerez sur ce bouton ci dessus, un nouveau panel s'affichera (voir ci dessus), il s'agit donc des options de votre ticket, vous avez à votre disposition 3 select menus et 6 boutons que nous allons vous présentez.
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.09.34.png" alt=""><figcaption><p>Transcript settings</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.22.27.png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}  
+🔴 **Red = Disabled** | 🟢 **Green = Enabled**  
+{% endhint %}  
 
-\--> le premier select menus (image ci-dessous) permet d'indiquer les rôles à mentionner lors de la création du ticket&#x20;
+### 🔹 Additional Ticket Options  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.27.55.png" alt=""><figcaption></figcaption></figure>
+- **Button 5**: Adds more options to the ticket panel, such as extra buttons or select menu choices.  
 
-\--> le deuxième select menus (image ci-dessous) permet d'indiquer les rôles ayant accès au tickets (il s'agit des rôles de votre équipe de support)
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.21.39.png" alt=""><figcaption><p>Add more options</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.29.32.png" alt=""><figcaption></figcaption></figure>
+Clicking this button opens a **new panel** with additional settings:  
 
-\--> le troisième select menus (image ci-dessous) permet de renseigner la catégorie où les salons du ticket seront créé
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.22.27.png" alt=""><figcaption><p>Advanced ticket options</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.30.36.png" alt=""><figcaption></figcaption></figure>
+#### 🎛️ Advanced Settings  
 
-{% hint style="warning" %}
-Note: Si vous ne trouvez pas votre rôle ou votre catégorie il suffit de l'écrire sur le select Menu
-{% endhint %}
+- **First Select Menu**: Defines which roles will be **mentioned** when a ticket is created.  
 
-\--> Le premier bouton (image ci-dessous) permet d'indiquer l'émoji de l'option il s'agit de l'émoji du bouton ou du select menu
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.27.55.png" alt=""><figcaption><p>Roles to mention</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.29.17.png" alt=""><figcaption></figcaption></figure>
+- **Second Select Menu**: Defines which roles have **access** to the ticket (e.g., support team roles).  
 
-\--> Le deuxième bouton (image ci-dessous) permet d'indiquer le texte du bouton ou du select menu
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.29.32.png" alt=""><figcaption><p>Support team access</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.30.27.png" alt=""><figcaption></figcaption></figure>
+- **Third Select Menu**: Specifies the **category** where ticket channels will be created.  
 
-\--> Le troisième bouton (image ci-dessous) permet d'indiquer le nom du salon du ticket, avec la commande `!variables ticket` vous pouvez renseignée des valeurs comme le nombre de ticket créé, le nom de la personne etc...
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-20 à 22.30.36.png" alt=""><figcaption><p>Ticket category</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.36.02.png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}  
+💡 **Tip:** If you can’t find your role or category, simply type its name in the Select Menu.  
+{% endhint %}  
 
-\--> Le quatrième bouton (image ci-dessous) permet de renseigner le texte lors de l'ouverture du ticket il servira à guider le membre pour son aide
+### 🔹 Button Functions  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.42.21.png" alt=""><figcaption></figcaption></figure>
+- **Button 1**: Sets an emoji for the button or select menu.  
 
-\--> Le cinquième bouton (image ci-dessous) permet de sauvegarder votre option.
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.29.17.png" alt=""><figcaption><p>Set emoji</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.48.05.png" alt=""><figcaption></figcaption></figure>
+- **Button 2**: Defines the **text** of the button or select menu option.  
 
-\--> Le sixième bouton (image ci-dessous) permet de retourner à votre menu principal
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.30.27.png" alt=""><figcaption><p>Set button text</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.49.47.png" alt=""><figcaption></figcaption></figure>
+- **Button 3**: Sets the **name of the ticket channel**. Use `!variables ticket` to insert dynamic values like ticket number, username, etc.  
 
-Une fois votre option configuré vous pouvez passser à l'instalation de votre panel ticket. Tout d'abord, il faut créer un message où les boutons ou le select menu seront en place, vous pouvez utiliser la commande `!embed` ou `!say` , il faudra récupérer l'identifiant du message.\
-\
-\--> Cela étant faîte passant au quatrième bouton de l'embed de départ (image ci-dessous), lorsque vous cliquerez dessus un modal apparaitra il faudra renseigner l'identifiant du message. Une fois validé, allez voir votre message et vous verrez qu'un changement a été faîte !
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.36.02.png" alt=""><figcaption><p>Set ticket channel name</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.12.33.png" alt=""><figcaption></figcaption></figure>
+- **Button 4**: Defines the **message** displayed when a ticket is opened. This guides the user on what to do next.  
 
--> Le sixième bouton (image ci-dessous) permet de supprimer tous vos options.
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.42.21.png" alt=""><figcaption><p>Set ticket opening message</p></figcaption></figure>  
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.13.14.png" alt=""><figcaption></figcaption></figure>
+- **Button 5**: Saves the current configuration.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.48.05.png" alt=""><figcaption><p>Save settings</p></figcaption></figure>  
+
+- **Button 6**: Returns to the main settings menu.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.49.47.png" alt=""><figcaption><p>Return to main menu</p></figcaption></figure>  
+
+## 📌 Deploying the Ticket Panel  
+
+Once your settings are configured, it’s time to **install your ticket panel**!  
+
+1. Create a message where the ticket buttons or select menu will be placed.  
+   - Use the `!embed` or `!say` command.  
+   - Copy the message **ID**.  
+
+2. Click the **4th button** in the main settings menu (see below).  
+   - A pop-up will appear asking for the message ID.  
+   - Once confirmed, your ticket panel will be updated!  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.12.33.png" alt=""><figcaption><p>Deploying the ticket panel</p></figcaption></figure>  
+
+### 🗑️ Resetting Options  
+
+- **Button 6**: Deletes all your configured ticket options.  
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.13.14.png" alt=""><figcaption><p>Reset ticket settings</p></figcaption></figure>  
+
+Your **ticket system** is now ready to go! 🚀
