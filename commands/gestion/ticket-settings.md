@@ -63,3 +63,27 @@ Note: Si vous ne trouvez pas votre rôle ou votre catégorie il suffit de l'écr
 {% endhint %}
 
 \--> Le premier bouton (image ci-dessous) permet d'indiquer l'émoji de l'option il s'agit de l'émoji du bouton ou du select menu
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.29.17.png" alt=""><figcaption></figcaption></figure>
+
+\--> Le deuxième bouton (image ci-dessous) permet d'indiquer le texte du bouton ou du select menu
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.30.27.png" alt=""><figcaption></figcaption></figure>
+
+\--> Le troisième bouton (image ci-dessous) permet d'indiquer le nom du salon du ticket, avec la commande `!variables ticket` vous pouvez renseignée des valeurs comme le nombre de ticket créé, le nom de la personne etc...
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.36.02.png" alt=""><figcaption></figcaption></figure>
+
+\--> Le quatrième bouton (image ci-dessous) permet de renseigner le texte lors de l'ouverture du ticket il servira à guider le membre pour son aide
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.42.21.png" alt=""><figcaption></figcaption></figure>
+
+\--> Le cinquième bouton (image ci-dessous) permet de sauvegarder votre option.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.48.05.png" alt=""><figcaption></figcaption></figure>
+
+\--> Le sixième bouton (image ci-dessous) permet de retourner à votre menu principal
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.49.47.png" alt=""><figcaption></figcaption></figure>
+
+Une fois votre option configuré vous pouvez passser à l'instalation de votre panel ticket. Tout d'abord, il faut créer un message où les boutons ou le select menu seront en place, vous pouvez utiliser la commande `!embed` ou `!say` , il faudra récupérer l'identifiant du message.
