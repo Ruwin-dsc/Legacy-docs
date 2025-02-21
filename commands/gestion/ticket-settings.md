@@ -86,4 +86,12 @@ Note: Si vous ne trouvez pas votre rôle ou votre catégorie il suffit de l'écr
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 12.49.47.png" alt=""><figcaption></figcaption></figure>
 
-Une fois votre option configuré vous pouvez passser à l'instalation de votre panel ticket. Tout d'abord, il faut créer un message où les boutons ou le select menu seront en place, vous pouvez utiliser la commande `!embed` ou `!say` , il faudra récupérer l'identifiant du message.
+Une fois votre option configuré vous pouvez passser à l'instalation de votre panel ticket. Tout d'abord, il faut créer un message où les boutons ou le select menu seront en place, vous pouvez utiliser la commande `!embed` ou `!say` , il faudra récupérer l'identifiant du message.\
+\
+\--> Cela étant faîte passant au quatrième bouton de l'embed de départ (image ci-dessous), lorsque vous cliquerez dessus un modal apparaitra il faudra renseigner l'identifiant du message. Une fois validé, allez voir votre message et vous verrez qu'un changement a été faîte !
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.12.33.png" alt=""><figcaption></figcaption></figure>
+
+-> Le sixième bouton (image ci-dessous) permet de supprimer tous vos options.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.13.14.png" alt=""><figcaption></figcaption></figure>
