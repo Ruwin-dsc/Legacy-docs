@@ -114,3 +114,5 @@ Once your settings are configured, it’s time to **install your ticket panel**!
 <figure><img src="../../.gitbook/assets/Capture d’écran 2025-02-21 à 13.13.14.png" alt=""><figcaption><p>Reset ticket settings</p></figcaption></figure>
 
 Your **ticket system** is now ready to go! 🚀
+
+{% embed url="https://youtu.be/1mIUJws3-sY" %}
