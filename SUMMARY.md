@@ -10,3 +10,4 @@
   * [Backup Create](commands/utils/backup-create.md)
 * [⚙️ Gestion](commands/gestion/README.md)
   * [Ticket settings](commands/gestion/ticket-settings.md)
+  * [Auto-Publish](commands/gestion/ticket-settings-1.md)
