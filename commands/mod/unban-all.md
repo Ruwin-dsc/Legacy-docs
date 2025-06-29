@@ -10,5 +10,5 @@ Once the order is placed, it will be impossible to reverse it ⚠️
 
 * **Usage: &#x20;**<mark style="color:red;">**`unbanall`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 

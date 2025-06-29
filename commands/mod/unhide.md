@@ -6,7 +6,7 @@
 
 * **Usage: &#x20;**<mark style="color:green;">**`unhide <channel>`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 To un-hide a channel, use the correct command. The bot will process this without needing additional

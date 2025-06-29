@@ -10,5 +10,5 @@ Attention: Once the command is executed, it will be impossible to retrieve messa
 
 * **Usage: &#x20;**<mark style="color:yellow;">**`renew <channel>`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption></figcaption></figure>
 

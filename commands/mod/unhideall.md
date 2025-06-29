@@ -6,4 +6,4 @@
 
 * **Usage: &#x20;**<mark style="color:green;">**`unhideall`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>

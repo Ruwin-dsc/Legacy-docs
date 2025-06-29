@@ -6,4 +6,4 @@
 
 * **Usage: &#x20;**<mark style="color:green;">**`unlockall`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (40) (1).png" alt=""><figcaption></figcaption></figure>

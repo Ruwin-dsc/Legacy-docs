@@ -4,7 +4,7 @@
 
 When you use the `autorole` command, you will access the configuration panel. Don't worry—it's easy to set up!
 
-<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Configuration Options
 
@@ -12,7 +12,7 @@ When you use the `autorole` command, you will access the configuration panel. Do
 
 * **Button** : Delete the existing auto-role configuration.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 🔹 SelectMenu Function
 

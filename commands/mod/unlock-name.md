@@ -6,4 +6,4 @@
 
 * **Usage: &#x20;**<mark style="color:green;">**`unlockname @user`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53) (1).png" alt=""><figcaption></figcaption></figure>

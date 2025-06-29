@@ -8,7 +8,7 @@
 
 * **Usage:&#x20;**<mark style="color:purple;">**`temprole week/month/hours/days <role> @user`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **You can also assign this temporary role to multiple people by adding several user mentions. (ex:&#x20;**<mark style="color:purple;">**`@user1`**</mark> <mark style="color:yellow;">**`@user2`**</mark>**)**

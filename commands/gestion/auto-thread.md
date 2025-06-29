@@ -8,7 +8,7 @@ When you use the `autothread` command, you will access the configuration panel. 
 [**It is only possible to do it in the announcement rooms.**](#user-content-fn-1)[^1]
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 

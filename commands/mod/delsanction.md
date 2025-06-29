@@ -6,4 +6,4 @@
 
 * **Usage: &#x20;**<mark style="color:red;">**`delsanction @user <number/all>`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

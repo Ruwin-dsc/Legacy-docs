@@ -8,7 +8,7 @@ When you use the `autopublish` command, you will access the configuration panel.
 [**It is only possible to do it in the announcement rooms.**](#user-content-fn-1)[^1]
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://cdn.discordapp.com/attachments/1388517534617178195/1388519189823619152/Capture_decran_2025-06-28_155910.png?ex=686146c4&#x26;is=685ff544&#x26;hm=4bce8019b84f32f448365c9ca35ae5ba86ba39951e70730a8ab1c83d5cc52274&#x26;" alt=""><figcaption><p>Auto Publish Panel</p></figcaption></figure>
 
@@ -24,8 +24,8 @@ When you use the `autopublish` command, you will access the configuration panel.
 
 * **Button**: Deletes the existing configuration
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Configuration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Configuration</p></figcaption></figure>
 
 [^1]: 

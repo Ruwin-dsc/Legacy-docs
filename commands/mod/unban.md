@@ -6,4 +6,4 @@
 
 * **Usage:&#x20;**<mark style="color:green;">**`unban @user or 123456...`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

@@ -16,6 +16,8 @@
   * [Auto-role](commands/gestion/auto-role.md)
   * [Captcha](commands/gestion/captcha.md)
   * [Confession-settings](commands/gestion/confessionsetings.md)
+  * [Counter](commands/gestion/counter.md)
+  * [Counting](commands/gestion/counting.md)
 * [🔨 Mod](commands/mod/README.md)
   * [Add-Role](commands/mod/add-role.md)
   * [Temp-Role](commands/mod/temp-role.md)

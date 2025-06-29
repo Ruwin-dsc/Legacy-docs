@@ -10,7 +10,7 @@ You can assign a role to a user at any time.
 
 * **Usage:&#x20;**<mark style="color:purple;">**`addrole @user <role(s)>`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **To assign multiple roles simultaneously, mention each role separately.**

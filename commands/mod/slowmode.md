@@ -6,8 +6,8 @@
 
 * **Usage: &#x20;**<mark style="color:yellow;">**`slowmode <time/off> <channel>`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (50) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once the command is executed, the bot will install a slow mode for the defined time.
 
-<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (51) (1).png" alt=""><figcaption></figcaption></figure>
