@@ -1,6 +1,6 @@
 # Unmute
 
-**Description:** This command will be useful for a [<mark style="color:purple;">**muted user**</mark>](ticket-settings-6.md) to regain the ability to speak.
+**Description:** This command will be useful for a [<mark style="color:purple;">**muted user**</mark>](mute.md) to regain the ability to speak.
 
 ## ⚙️ Command
 

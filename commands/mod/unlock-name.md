@@ -1,6 +1,6 @@
 # Unlock-Name
 
-**Description:** This command is useful for removing a [<mark style="color:purple;">**user's lockname**</mark>](ticket-settings-25.md).
+**Description:** This command is useful for removing a [<mark style="color:purple;">**user's lockname**</mark>](lockname.md).
 
 ## ⚙️ Command
 

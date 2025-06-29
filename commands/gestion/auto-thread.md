@@ -26,7 +26,7 @@ When you use the `autothread` command, you will access the configuration panel. 
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-Once the configuration is complete, every announcement you make in the channel will automatically be followed by a created thread. If you want to delete it, go to the section. [<mark style="background-color:blue;">**Button Function**</mark>](ticket-settings-2.md#button-function)
+Once the configuration is complete, every announcement you make in the channel will automatically be followed by a created thread. If you want to delete it, go to the section. [<mark style="background-color:blue;">**Button Function**</mark>](auto-thread.md#button-function)
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 

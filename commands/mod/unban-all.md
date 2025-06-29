@@ -1,6 +1,6 @@
 # Unban-all
 
-**Description:** This command will be useful in certain cases. It can remove the [<mark style="color:purple;">**ban**</mark>](ticket-settings-4.md) for all users.
+**Description:** This command will be useful in certain cases. It can remove the [<mark style="color:purple;">**ban**</mark>](ban.md) for all users.
 
 {% hint style="danger" %}
 Once the order is placed, it will be impossible to reverse it ⚠️

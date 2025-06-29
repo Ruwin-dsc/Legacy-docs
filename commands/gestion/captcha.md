@@ -38,7 +38,7 @@ When you use the `captcha` command, you will access the configuration panel. Don
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
-Une fois votre configuration rempli veuillez l'activer avec le bouton dans la première catégorie de [<mark style="background-color:blue;">**Configuration Options**</mark>](ticket-settings-5.md#button-function)
+Une fois votre configuration rempli veuillez l'activer avec le bouton dans la première catégorie de [<mark style="background-color:blue;">**Configuration Options**</mark>](captcha.md#button-function)
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
