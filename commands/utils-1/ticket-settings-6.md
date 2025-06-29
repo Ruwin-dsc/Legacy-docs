@@ -1,13 +1,14 @@
-# Kick
+# Mute
 
-**Description:** This command allows you to kick a user from the server.
+**Description:** This command is useful to temporarily mute a user.
 
 ## ⚙️ Command
 
-* **Usage:**  <mark style="color:red;">`kick @user [reason]`</mark>
+* **Usage: &#x20;**<mark style="color:red;">**`mute @user <time> <reason>`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
-A <mark style="color:red;">**kicked user**</mark> will get a notification through a <mark style="color:orange;">**private message**</mark> if their messages are <mark style="color:green;">**open**</mark>
+Once the user is <mark style="color:red;">muted</mark>, they will receive a message from the bot, provided their private messages are open, informing them that they have been muted along with the reason and duration.
 
-<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+

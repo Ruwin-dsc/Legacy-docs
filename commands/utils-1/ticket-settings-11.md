@@ -1,13 +1,14 @@
-# Hide
+# Unban-all
 
-**Description:** This command allows you to hide a channel
+**Description:** This command will be useful in certain cases. It can remove the [<mark style="color:purple;">**ban**</mark>](ticket-settings-4.md) for all users.
+
+{% hint style="danger" %}
+Once the order is placed, it will be impossible to reverse it ⚠️
+{% endhint %}
 
 ## ⚙️ Command
 
-* **Usage: &#x20;**<mark style="color:red;">**`hide <channel>`**</mark>
+* **Usage: &#x20;**<mark style="color:red;">**`unbanall`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="success" %}
-To hide a channel, use the correct command. The bot will process this without needing additional
-{% endhint %}

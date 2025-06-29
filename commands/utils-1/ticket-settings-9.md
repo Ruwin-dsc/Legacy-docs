@@ -1,13 +1,9 @@
-# Channel-Delete
+# Un-Ban
 
-**Description:** This command allows you to delete a channel
+**Description:** This moderation command revokes a user's ban.
 
 ## ⚙️ Command
 
-* **Usage:&#x20;**<mark style="color:red;">**`chdelete <channel> or <123456...>`**</mark>
+* **Usage:&#x20;**<mark style="color:green;">**`unban @user or 123456...`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="danger" %}
-To delete the channel, you can do it directly without mentioning it if you are in it.
-{% endhint %}
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>

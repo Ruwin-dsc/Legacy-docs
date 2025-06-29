@@ -1,13 +1,10 @@
-# Channel-Rename
+# Unmute
 
-**Description:** This command allows you to rename a channel
+**Description:** This command will be useful for a [<mark style="color:purple;">**muted user**</mark>](ticket-settings-6.md) to regain the ability to speak.
 
 ## ⚙️ Command
 
-* **Usage: &#x20;**<mark style="color:orange;">**`chrename <channel> <name>`**</mark>
+* **Usage: &#x20;**<mark style="color:green;">**`unmute @user`**</mark>&#x20;
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-To rename a channel, you can use the appropriate command. The bot will perform the modification without needing to mention the channel.
-{% endhint %}

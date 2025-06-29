@@ -1,41 +1,35 @@
-# Auto-React
+# Auto-Thread
 
-**Description:** This feature automatically adds an emoji reaction to every message sent in a channel configured by the owner
+**Description:** This feature can be useful when posting an ad and you want to create a thread. Once the configuration is active, it will be automatically created.
 
-When you use the `autoreact` command, you will access the configuration panel. Don't worry—it's easy to set up!
+When you use the `autothread` command, you will access the configuration panel. Don't worry—it's easy to set up!
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+{% hint style="warning" %}
+[**It is only possible to do it in the announcement rooms.**](#user-content-fn-1)[^1]
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## ⚙️ Configuration Options
 
-### 🔹 Button Settings
+### 🔹 Button Function
 
-* **Button 1**: Add Auto-Reaction Channel Create a channel for auto-reactions to automatically add a reaction to each message sent in the channel
+* Button : Deletes all your configured auto-thread options.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/https___files.gitbook.com_v0_b_gitbook-x-prod.appspot.com_o_spaces_2F4oU7ecFpX37mgJVGoqeR_2Fuploads_2FMuQeE5uC4wUU92JCuArl_2Fimage.avif" alt=""><figcaption></figcaption></figure>
 
-* **Button 2**: Delete the existing auto-react configuration.
+### 🔹 SelectMenu Function
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+* **"Select Channels"**: Allows you to select a channel to add to auto-thread
 
-* **Button 3**: Allows you to delete an auto-reaction configuration (one at a time)
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+Once the configuration is complete, every announcement you make in the channel will automatically be followed by a created thread. If you want to delete it, go to the section. [<mark style="background-color:blue;">**Button Function**</mark>](ticket-settings-2.md#button-function)
 
-### 🔹 Configuration Completed
+<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-In this section, you will learn how to configure <mark style="color:red;">**`autoreact`**</mark>
-{% endhint %}
-
-<mark style="color:red;">**🟢**</mark>**&#x20;**<mark style="color:green;">**Add Auto-React**</mark>
-
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-Once the reaction is added, the Legacy bot will then reply with the reaction under each message sent in the configured channel.
-
-[<mark style="color:red;">**🔴 Remove Auto-React**</mark>](#user-content-fn-1)[^1]
-
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
 
 [^1]: 

@@ -1,13 +1,25 @@
-# Lock
+# Sanctions
 
-**Description:** This command locks a channel for all users
+**Description:** This command allows you to check the sanctions of the members of your server
 
 ## ⚙️ Command
 
-* **Usage: &#x20;**<mark style="color:red;">**`lock <channel>`**</mark>
+* **Usage: &#x20;**<mark style="color:yellow;">**`sanctions @user`**</mark>
 
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-To lock the channel, you can do it directly without mentioning it if you are in it.
-{% endhint %}
+### 🔹 Button Functions
+
+
+
+* **Button 1**: It allows you to go back to your user sanctions page.
+
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+
+* **Button 2**: This allows you to see which page you are on.
+
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+
+* **Button 3**: This one has the same function as the first but allows you to go to the next page.
+
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
