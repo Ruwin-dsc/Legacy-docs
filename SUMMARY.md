@@ -49,3 +49,4 @@
   * [Renew](commands/mod/renew.md)
   * [Slowmode](commands/mod/slowmode.md)
   * [Sync](commands/mod/sync.md)
+* [🚨 Antiraid](commands/antiraid.md)
